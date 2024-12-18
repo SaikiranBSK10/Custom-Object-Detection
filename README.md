@@ -14,6 +14,6 @@ Evaluating the model using metrics Intersection over Union (IoU) and accuracy.
 Visualizing predictions to validate the model's performance.
 
 Below is the example of the model's predictions. The green box represent the ground truth, and the red box represent the predicted bounding box.
-![Prediction](1.png)
+![Prediction](1.PNG)
 
 
